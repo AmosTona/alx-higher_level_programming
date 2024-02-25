@@ -27,4 +27,3 @@ def matrix_mul(m_a, m_b):
     for i in range(a_rows):
         product.append([])
     for 
-
